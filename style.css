@@ -27,3 +27,8 @@ body {
     background-color: #5d1313ff;
     color: rgba(255, 255, 255, 0.638);
   }
+
+  .aboutp {
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+  }
